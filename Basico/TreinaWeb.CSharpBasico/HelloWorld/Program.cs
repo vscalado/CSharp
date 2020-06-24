@@ -10,6 +10,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.Write("Vitor Calado");
+
+            Console.WriteLine("Hello World");
+
+            Console.ReadKey();
         }
     }
 }
